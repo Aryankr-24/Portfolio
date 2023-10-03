@@ -13,7 +13,7 @@ const HeroImg = () => {
         <p> HI, I'M ARYAN KUMAR</p>
         <h1>FULL STACK DEVELOPER</h1>
         <div>
-            <Link to="https://drive.google.com/file/d/1CtoKdjBVL2B1_3DMCsvgBtl0mN_pKzFU/view?usp=drivesdk" className="btn">Resume</Link>
+            <Link to="https://drive.google.com/file/d/1_UgnlVmTStndpjiFX5aDFVYfUMv-P4Nt/view?usp=drive_link" className="btn">Resume</Link>
             <Link to="/contact" className="btn btn-light">Contact</Link>
         </div>
       </div>
